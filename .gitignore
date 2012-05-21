@@ -4,3 +4,5 @@ atlassian-ide-plugin.xml
 logs
 *.iml
 *.ipr
+lib
+out
