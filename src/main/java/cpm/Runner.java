@@ -8,13 +8,6 @@ import org.eclipse.jetty.servlet.ServletHolder;
 
 import javax.servlet.Servlet;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Chuck
- * Date: 4/5/12
- * Time: 11:07 PM
- * To change this template use File | Settings | File Templates.
- */
 public class Runner {
     public static void main(String[] args) throws Exception {
         Server server = new Server(8081);
